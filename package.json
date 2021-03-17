@@ -1,0 +1,29 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Restaurant page project for The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerchan28/restaurant-page.git"
+  },
+  "author": "Tyler Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerchan28/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/tylerchan28/restaurant-page#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.24.4",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "loader": "^2.1.1"
+  }
+}
